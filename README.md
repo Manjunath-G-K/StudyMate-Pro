@@ -3,23 +3,18 @@
 > **StudyMate Pro** is a simple, clean, and user-friendly task manager **+** Pomodoro timer app built with **Python** and **CustomTkinter**.  
 > Stay organized, boost productivity, and manage your study sessions with ease — perfect for **students** and **professionals**!
 
----
-
 ## 🚀 Features
 - ✔️ **Add, list, and check off** your study tasks  
 - ⏳ **Customizable focus timer** (no more fixed 25 minutes!)  
 - ☕ **Built-in 5-minute break** for quick refreshment  
 - 🎨 **Modern UI** powered by CustomTkinter  
-- 🔔 **End-session alerts** for focus & breaks  
-
----
+- 🔔 **End-session alerts** for focus & breaks 
 
 ## 💻 Tech Stack
 - **Python 3.x**  
 - **CustomTkinter**  
 - **Tkinter MessageBox**  
 
----
 
 ## 📂 Project Structure
 ```plaintext
@@ -28,7 +23,6 @@ StudyMatePro/
 ├── README.md     # This README file
 
 
----
 
 ⚙️ How to Run
 
@@ -52,8 +46,6 @@ pip install customtkinter
 python main.py
 
 
----
-
 🎯 How To Use
 
 1. Enter your task in the input box → click + Add
@@ -74,19 +66,12 @@ python main.py
 6. Reset anytime to start fresh
 
 
-
-
----
-
 🤝 Connect
 
 LinkedIn : https://www.linkedin.com/in/manjunath-g-k
 
 📧 Email: manjunathgk146@gmail.com
 
-
-
----
 
 💡 Contribution
 
