@@ -1,101 +1,86 @@
 # 📝 StudyMate Pro
 
-> **StudyMate Pro** is a simple, clean, and user-friendly task manager **+** Pomodoro timer app built with **Python** and **CustomTkinter**.  
-> Stay organized, boost productivity, and manage your study sessions with ease — perfect for **students** and **professionals**!
+**StudyMate Pro** is a simple, clean, and user-friendly task manager with a Pomodoro timer, built using Python and CustomTkinter. Stay organized, boost productivity, and manage your study sessions efficiently — perfect for students and professionals!
+
+---
 
 ## 🚀 Features
-- ✔️ **Add, list, and check off** your study tasks  
-- ⏳ **Customizable focus timer** (no more fixed 25 minutes!)  
-- ☕ **Built-in 5-minute break** for quick refreshment  
-- 🎨 **Modern UI** powered by CustomTkinter  
-- 🔔 **End-session alerts** for focus & breaks 
 
-## 💻 Tech Stack
-- **Python 3.x**  
-- **CustomTkinter**  
-- **Tkinter MessageBox**  
+- Add, list, and check off study tasks
+- Customizable focus timer (no fixed 25 minutes)
+- Built-in 5-minute break
+- Modern UI powered by CustomTkinter
+- End-session alerts
 
+---
 
-## 📂 Project Structure
-```plaintext
+## 🛠 Tech Stack
+
+- **Python 3.x**
+- **CustomTkinter**
+- **Tkinter MessageBox**
+
+---
+
+## 📁 Project Structure
+
+```
 StudyMatePro/
-├── main.py       # Main application code
-├── README.md     # This README file
+│
+├── main.py         # Main application code
+└── README.md       # Project documentation
+```
 
+---
 
+## ▶️ How to Run
 
-⚙️ How to Run
+1. **Clone or download the repository:**
+   ```bash
+   git clone https://github.com/yourusername/StudyMatePro.git
+   cd StudyMatePro
+   ```
 
-1. Clone or Download this Repository
+2. **Install dependencies:**
+   ```bash
+   pip install customtkinter
+   ```
 
+3. **Run the application:**
+   ```bash
+   python main.py
+   ```
 
+---
 
-git clone https://github.com/yourusername/StudyMatePro.git
-cd StudyMatePro
+## ✨ How to Use
 
-2. Install Dependencies
+- Enter your task in the input box → click **+ Add**
+- Mark tasks as done
+- Set a custom focus time → click **Set**
+- Click **Start Focus** to begin a Pomodoro session
+- Use **Take Break** for a 5-minute rest
+- Click **Reset** anytime
 
+---
 
+## 🤝 Connect
 
-pip install customtkinter
+- **LinkedIn:** [Manjunath G K](https://www.linkedin.com/in/manjunath-g-k/)
+- **Email:** manjunathgk146@gmail.com
 
-3. Run the Application
+---
 
+## 💡 Contribution
 
+We welcome contributions! Help us by reporting bugs, suggesting features, improving the UI or codebase, or adding documentation.
 
-python main.py
+### To contribute:
+1. **Fork** the repository
+2. **Create a new branch** for your feature or fix
+3. **Make your changes**
+4. **Submit a pull request**
 
+Thank you for your support and interest in StudyMate Pro!
 
-🎯 How To Use
-
-1. Enter your task in the input box → click + Add
-
-
-2. Mark tasks as done ✅
-
-
-3. Set custom focus time → click Set
-
-
-4. Click Start Focus to begin a Pomodoro session
-
-
-5. Use Take Break for a 5-minute rest
-
-
-6. Reset anytime to start fresh
-
-
-🤝 Connect
-
-LinkedIn : https://www.linkedin.com/in/manjunath-g-k
-
-📧 Email: manjunathgk146@gmail.com
-
-
-💡 Contribution
-
-We welcome contributions! You can:
-
-🐞 Report bugs
-
-💡 Suggest new features
-
-🎨 Improve UI or code quality
-
-📚 Add documentation or examples
-
-
-To contribute:
-
-1. Fork the repository
-
-
-2. Create a new branch
-
-
-3. Make your changes
-
-
-4. Submit a pull request 🎉
-
+---
